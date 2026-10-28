@@ -12,7 +12,9 @@
 
 </div>
 
-<img align="right" width="360" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="Ahmed coding" />
+<p align="center">
+  <img src="./assets/profile-cover.png" alt="Abstract AI and full-stack technology cover" width="100%" />
+</p>
 
 ## About me
 
